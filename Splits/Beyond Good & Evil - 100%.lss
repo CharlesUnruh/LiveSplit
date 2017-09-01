@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Run version="1.7.0">
+  <GameIcon />
+  <GameName>Beyond Good &amp; Evil</GameName>
+  <CategoryName>100%</CategoryName>
+  <Metadata>
+    <Run id="" />
+    <Platform usesEmulator="False">PC</Platform>
+    <Region>USA / NTSC</Region>
+    <Variables />
+  </Metadata>
+  <Offset>00:00:00</Offset>
+  <AttemptCount>10</AttemptCount>
+  <AttemptHistory>
+    <Attempt id="1" started="09/01/2017 11:44:22" isStartedSynced="True" ended="09/01/2017 11:44:23" isEndedSynced="True">
+      <RealTime>00:00:00.5250000</RealTime>
+    </Attempt>
+    <Attempt id="2" started="09/01/2017 11:44:24" isStartedSynced="True" ended="09/01/2017 11:44:25" isEndedSynced="True">
+      <RealTime>00:00:00.4260000</RealTime>
+    </Attempt>
+    <Attempt id="3" started="09/01/2017 11:44:26" isStartedSynced="True" ended="09/01/2017 11:44:27" isEndedSynced="True">
+      <RealTime>00:00:01.2440000</RealTime>
+    </Attempt>
+    <Attempt id="4" started="09/01/2017 11:44:28" isStartedSynced="True" ended="09/01/2017 11:44:29" isEndedSynced="True">
+      <RealTime>00:00:00.3620000</RealTime>
+    </Attempt>
+    <Attempt id="5" started="09/01/2017 11:44:30" isStartedSynced="True" ended="09/01/2017 11:44:30" isEndedSynced="True">
+      <RealTime>00:00:00.3310000</RealTime>
+    </Attempt>
+    <Attempt id="6" started="09/01/2017 11:44:31" isStartedSynced="True" ended="09/01/2017 11:44:33" isEndedSynced="True">
+      <RealTime>00:00:01.8830000</RealTime>
+    </Attempt>
+    <Attempt id="7" started="09/01/2017 11:44:34" isStartedSynced="True" ended="09/01/2017 11:44:38" isEndedSynced="True">
+      <RealTime>00:00:03.6010000</RealTime>
+    </Attempt>
+    <Attempt id="8" started="09/01/2017 11:44:39" isStartedSynced="True" ended="09/01/2017 11:44:41" isEndedSynced="True" />
+    <Attempt id="9" started="09/01/2017 11:45:16" isStartedSynced="True" ended="09/01/2017 11:45:19" isEndedSynced="True">
+      <RealTime>00:00:02.8820000</RealTime>
+    </Attempt>
+    <Attempt id="10" started="09/01/2017 11:45:20" isStartedSynced="True" ended="09/01/2017 11:45:21" isEndedSynced="True">
+      <RealTime>00:00:00.5020000</RealTime>
+    </Attempt>
+  </AttemptHistory>
+  <Segments>
+    <Segment>
+      <Name>
+      </Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best">
+          <RealTime>00:00:00.3310000</RealTime>
+        </SplitTime>
+      </SplitTimes>
+      <BestSegmentTime>
+        <RealTime>00:00:00.3310000</RealTime>
+      </BestSegmentTime>
+      <SegmentHistory>
+        <Time id="1">
+          <RealTime>00:00:00.5250000</RealTime>
+        </Time>
+        <Time id="3">
+          <RealTime>00:00:01.2440000</RealTime>
+        </Time>
+        <Time id="2">
+          <RealTime>00:00:00.4260000</RealTime>
+        </Time>
+        <Time id="6">
+          <RealTime>00:00:01.8830000</RealTime>
+        </Time>
+        <Time id="4">
+          <RealTime>00:00:00.3620000</RealTime>
+        </Time>
+        <Time id="5">
+          <RealTime>00:00:00.3310000</RealTime>
+        </Time>
+        <Time id="7">
+          <RealTime>00:00:03.6010000</RealTime>
+        </Time>
+        <Time id="9">
+          <RealTime>00:00:02.8820000</RealTime>
+        </Time>
+        <Time id="10">
+          <RealTime>00:00:00.5020000</RealTime>
+        </Time>
+      </SegmentHistory>
+    </Segment>
+  </Segments>
+  <AutoSplitterSettings />
+</Run>
